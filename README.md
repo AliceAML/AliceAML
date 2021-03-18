@@ -12,7 +12,7 @@ I'm a first-year **[Natural Language Procesing MSc](http://www.linguist.univ-par
 - :coffee: I'm also proficient in **Java**!
 - :blush: The project I'm proudest of thus far is a [Flask app that generates silly messages from WhatsApp conversation](https://github.com/AliceAML/whatsai)! I made it to entertain my friends, and ended up learning a lot.
 - 🔭 I’m currently working on an NLP project to [automate French inclusive writing](https://github.com/AliceAML/projetEI) (from January to June 2021)
-- :open_book: I've started [translating to French](https://github.com/AliceAML/trad-au-dela-fondamentaux-python) @asweigart's book [Beyond the basic stuff with Python](https://inventwithpython.com/beyond/)
+- :open_book: I've started [translating to French](https://github.com/AliceAML/trad-au-dela-fondamentaux-python) the book [*Beyond the basic stuff with Python*](https://inventwithpython.com/beyond/)
 
 <!--
 **AliceAML/AliceAML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
