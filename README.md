@@ -10,7 +10,7 @@ I'm a first-year **[Natural Language Procesing MSc](http://www.linguist.univ-par
 - :snake: I love coding in **Python**, and always strive to make my code more beautiful and Pythonic 
 - :open_book: I've started [translating to French](https://github.com/AliceAML/trad-au-dela-fondamentaux-python) the book [*Beyond the basic stuff with Python*](https://inventwithpython.com/beyond/)
 - :coffee: I'm also proficient in **Java**!
-- :blush: The project I'm proudest of thus far is a [Flask app that generates silly messages from WhatsApp conversation](https://github.com/AliceAML/whatsai)! I made it to entertain my friends, and ended up learning a lot.
+- :blush: The project I'm proudest of thus far is a [Flask app that generates silly messages from WhatsApp conversation](https://github.com/AliceAML/whatsai) using a Markov chain model! I made it to entertain my friends, and ended up learning a lot.
 - 🔭 I’m currently working on an NLP project to [automate French inclusive writing](https://github.com/AliceAML/projetEI) (from January to June 2021)
 
 <!--
