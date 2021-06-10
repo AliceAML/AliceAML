@@ -6,7 +6,7 @@ I'm a first-year **[Natural Language Procesing MSc](http://www.linguist.univ-par
 
 🚀 I want to use my skills in NLP and ML to create new tools for language learners and teachers!
 
-📃 If you want to learn more about my education and my work experience, check out my resume, in [English](https://github.com/AliceAML/resume/blob/main/HAMMEL_CV_2021_en.pdf) or in [French](https://github.com/AliceAML/resume/raw/main/HAMMEL_CV_2021_fr.pdf).
+📃 If you want to learn more about my education and my work experience, check out [my resume](./HAMMEL_CV_2021_en.pdf).
 
 - 🌱 I’m thrilled to currently be learning about **Machine Learning** and its applications in **Natural Language Processing**. Check out my progress in my [project board](https://github.com/users/AliceAML/projects/1)
 - 🐍 I love coding in **Python**, and always strive to make my code more beautiful and Pythonic 
